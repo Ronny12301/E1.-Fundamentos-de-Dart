@@ -6,7 +6,7 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 102523,
   },
   {
-    'name': 'Rio lago bosque fluyendo agua en piedras',
+    'name': 'The untold history of web development',
     'videoUrl': 'assets/videos/2.mp4',
     'likes': 24230,
     'views': 135343,
